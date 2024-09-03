@@ -13,7 +13,7 @@
 
 
 <h4 align="center">
-  Feito com ❤️ por Lenilson Soares 👋️ <a href="mailto:lenilsonp40@gmail.com">Entre em contato!</a>
+  Feito por Lenilson Soares 👋️ <a href="mailto:lenilsonp40@gmail.com">Entre em contato!</a>
 </h4>
 
 <p align="center">
